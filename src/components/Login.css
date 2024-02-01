@@ -1,0 +1,19 @@
+.main{
+    background-color: #89CFF0;
+    height: 100vh;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .minimain{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logincontainer{
+        
+        background-color: white;
+        border-radius: 20%;
+        width: 40%;
+       
+    }
